@@ -21,11 +21,13 @@ Setup Service for HA:
 
 Requirements:
 1) google python api
+2) google api key file
 
 Steps:
 1) install pyopenssl, oauth2client, google-api-python-client
 2) copy notify.py into custom_components
 3) notify.py: enter your project id in PROJECT_ID = 'XXXXXXXXXXXX' 
-4) notify.py: enter the path to your service-account.json in PATH_SERVICE_ACCOUNT 
-4) restart HA
+4) notify.py: enter the path to your service-account.json in PATH_SERVICE_ACCOUNT
+   get api key file here https://console.developers.google.com
+5) restart HA
 
