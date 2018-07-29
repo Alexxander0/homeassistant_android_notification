@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTransparent">#FF4081</color>
+
+    <color name="ic_home_unkown">#878787</color>
+    <color name="ic_home_info">#2899f3</color>
+    <color name="ic_home_warning">#e2af17</color>
+    <color name="ic_home_error">#f4493c</color>
+
+</resources>
