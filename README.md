@@ -25,6 +25,7 @@ Requirements:
 Steps:
 1) install pyopenssl, oauth2client, google-api-python-client
 2) copy notify.py into custom_components
-3) enter your project id to PROJECT_ID = 'XXXXXXXXXXXX' in the notify.py
+3) notify.py: enter your project id in PROJECT_ID = 'XXXXXXXXXXXX' 
+4) notify.py: enter the path to your service-account.json in PATH_SERVICE_ACCOUNT 
 4) restart HA
 
